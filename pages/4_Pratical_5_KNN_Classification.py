@@ -8,8 +8,8 @@ from sklearn.metrics import accuracy_score, confusion_matrix, classification_rep
 st.title("K-Nearest Neighbors (KNN) Classification using Streamlit")
 
 with st.expander("1. Home Page", expanded=True):
-    st.write("**Student Name:** Saurav Rajput")
-    st.write("**Enrollment Number:** 25MCA30081")
+    st.write("**Student Name:** Amaan Shaikh")
+    st.write("**Enrollment Number:** 25MCA30094")
     st.write("**Course Name:** Machine Learning (MCA 34)")
     st.write(
         "**Objective:** To develop an interactive Streamlit application "
